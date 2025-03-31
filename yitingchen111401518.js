@@ -1,3 +1,4 @@
+/*企業管理學系三年級A班111401518陳怡廷*/
 /*
 https://leetcode.com/problems/create-hello-world-function
 題目:不管輸入什麼皆回傳 Hello world */
